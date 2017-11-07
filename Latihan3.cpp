@@ -18,4 +18,7 @@ int main(){
 	jamkerjatotal=40+jamlembur;
 	gatot=jamkerjatotal*gajiperjam;
 	gaber=gatot-(0.15*gatot);
+	
+	cout <<"Jam Lembur Anda= "
+		<<lembur<<endl;
 }
