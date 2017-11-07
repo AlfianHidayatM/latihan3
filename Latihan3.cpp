@@ -12,5 +12,10 @@ int main(){
 	
 	cout <<"Masukan Jam Kerja Anda= ";cin>> jamkerja;
 	cout <<"Masukan Gaji Anda= ";cin>> gajiperjam;
-
+	
+	lembur=jamkerja-40;
+	jamlembur=lembur*1.5;
+	jamkerjatotal=40+jamlembur;
+	gatot=jamkerjatotal*gajiperjam;
+	gaber=gatot-(0.15*gatot);
 }
