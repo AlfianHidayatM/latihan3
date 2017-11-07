@@ -27,4 +27,6 @@ int main(){
 		<<jamkerjatotal<<endl;
 	cout <<"Gaji Total Anda= "
 		<<gatot<<endl;
+	cout <<"Gaji Bersih Anda Di Potong Pajak= "
+		<<gaber<<endl;
 }
