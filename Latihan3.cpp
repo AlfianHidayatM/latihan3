@@ -23,4 +23,6 @@ int main(){
 		<<lembur<<endl;
 	cout <<"Bonus Dari Lembur Anda= "
 		<<jamlembur<<endl;
+	cout <<"Jam Kerja Total Anda= "
+		<<jamkerjatotal<<endl;
 }
