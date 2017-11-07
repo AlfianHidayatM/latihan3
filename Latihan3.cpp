@@ -25,4 +25,6 @@ int main(){
 		<<jamlembur<<endl;
 	cout <<"Jam Kerja Total Anda= "
 		<<jamkerjatotal<<endl;
+	cout <<"Gaji Total Anda= "
+		<<gatot<<endl;
 }
