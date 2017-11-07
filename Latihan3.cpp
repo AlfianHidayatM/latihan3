@@ -21,4 +21,6 @@ int main(){
 	
 	cout <<"Jam Lembur Anda= "
 		<<lembur<<endl;
+	cout <<"Bonus Dari Lembur Anda= "
+		<<jamlembur<<endl;
 }
